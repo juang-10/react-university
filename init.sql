@@ -103,7 +103,7 @@ INSERT INTO teacher (first_name, last_name, address, city, state, zip, title, ph
 ('James', 'Rodríguez', 'Carrera 3  con Calle 28 Esquina Barrio Claret', 'Valdivia', 'Antioquia', '01742', 'PHD', '617-123-4567', '617-987-6543', 'jkennedy@fakemail.com', 'https://s3-us-west-1.amazonaws.com/sfdc-demo/people/james_kennedy.jpg'),
 ('Daniela', 'Urueña', 'Calle 10 No. 9 - 78  Centro', 'Heliconia', 'Antioquia', '01742', 'PHD', '617-123-4567', '617-987-6543', 'ataylor@fakemail.com', 'https://s3-us-west-1.amazonaws.com/sfdc-demo/people/amy_taylor.jpg'),
 ('Olivia', 'Castro', 'Calle 12 No. 4 - 19  Edificio Panamericano Of. 406', 'El Retiro', 'Antioquia', '01742', 'PHD', '617-123-4567', '617-987-6543', 'ogreen@fakemail.com', 'https://s3-us-west-1.amazonaws.com/sfdc-demo/people/olivia_green.jpg'),
-('Andrés', 'Gualtero', 'Avda Francisco Newball No. 4A-20 - Edif. Cámara de Comercio Of. 304', 'Uramita', 'Antioquia', '01742', 'PHD', '617-985-6955', '617-666-5555', 'mjones@fakemail.com', 'https://s3-us-west-1.amazonaws.com/sfdc-demo/people/michael_jones.jpg');
+('Andrés', 'Gualtero', 'Avda Francisco Newball No. 4A-20 - Edif. Cámara de Comercio Of. 304', 'Uramita', 'Antioquia', '01742', 'PHD', '617-985-6955', '617-666-5555', 'andres-gualtero@fakemail.com', 'https://s3-us-west-1.amazonaws.com/sfdc-demo/people/michael_jones.jpg');
 
 INSERT INTO course (code, name, teacher_id, period_id, credits) VALUES
 ('CS101', 'Introducción a la informática', 1, 1, 4),
